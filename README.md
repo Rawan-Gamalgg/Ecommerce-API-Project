@@ -26,10 +26,10 @@ This E-Commerce API provides a robust backend solution for online retail platfor
 - Real-time cart management
 - Order creation and tracking
 - Order status management
-- Order item details and history
+- Order item details
 
 ### Image Management
-- Product image upload and storage
+- Image upload and storage
 - Image validation
 - Efficient image retrieval
 
@@ -84,16 +84,18 @@ This E-Commerce API provides a robust backend solution for online retail platfor
 ### Products
 - `GET /api/products` - Get all products with filtering and pagination
 - `GET /api/products/{id}` - Get product by ID
-- `POST /api/products` - Create new product
-- `PUT /api/products/{id}` - Update product
-- `DELETE /api/products/{id}` - Delete product
+- `POST /api/products` - Create new product | ADMIN ONLY
+- `PUT /api/products/{id}` - Update product | ADMIN ONLY
+- `DELETE /api/products/{id}` - Delete product | ADMIN ONLY
+
 
 ### Categories
 - `GET /api/categories` - Get all categories
 - `GET /api/categories/{id}` - Get category by ID
-- `POST /api/categories` - Create new category
-- `PUT /api/categories/{id}` - Update category
-- `DELETE /api/categories/{id}` - Delete category
+- `POST /api/categories` - Create new category | ADMIN ONLY
+- `PUT /api/categories/{id}` - Update category | ADMIN ONLY
+- `DELETE /api/categories/{id}` - Delete category | ADMIN ONLY
+
 
 ### Authentication
 - `POST /api/auth/register` - User registration
@@ -111,10 +113,12 @@ This E-Commerce API provides a robust backend solution for online retail platfor
 - `GET /api/orders/{id}` - Get order details
 
 ### Images
-- `POST /api/images/upload` - Upload product image
+- `POST /api/images/upload` - Upload image
+- `POST /api/images/product/id` - Upload product image | ADMIN ONLY
+- `POST /api/images/category/id` - Upload category image  | ADMIN ONLY
+
 
 ### Roles
-- `GET /api/roles` - Get all roles
 - `POST /api/roles` - Create new role
 
 ## Getting Started
@@ -144,8 +148,6 @@ dotnet ef database update
 ```
 dotnet run
 ```
-
-The API will be available at `https://localhost:5001` or `http://localhost:5000`
 
 ## Project Structure Details
 
@@ -183,7 +185,6 @@ The database includes the following main entities:
 Key settings in `appsettings.json`:
 - Database connection string
 - JWT settings (secret key, expiration)
-- Image upload settings
 - Role definitions
 
 ## Security
@@ -202,7 +203,6 @@ Key settings in `appsettings.json`:
 
 ## License
 
-[Add your license information here]
 
 ## Support
 
