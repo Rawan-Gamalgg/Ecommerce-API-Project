@@ -1,0 +1,14 @@
+C:\Users\UUSER\Documents\RAWAN\ITI\ASP .NET CORE\E-commerce API Project\DAL\bin\Debug\net10.0\DAL.deps.json
+C:\Users\UUSER\Documents\RAWAN\ITI\ASP .NET CORE\E-commerce API Project\DAL\bin\Debug\net10.0\DAL.runtimeconfig.json
+C:\Users\UUSER\Documents\RAWAN\ITI\ASP .NET CORE\E-commerce API Project\DAL\bin\Debug\net10.0\DAL.dll
+C:\Users\UUSER\Documents\RAWAN\ITI\ASP .NET CORE\E-commerce API Project\DAL\bin\Debug\net10.0\DAL.pdb
+C:\Users\UUSER\Documents\RAWAN\ITI\ASP .NET CORE\E-commerce API Project\DAL\obj\Debug\net10.0\DAL.csproj.AssemblyReference.cache
+C:\Users\UUSER\Documents\RAWAN\ITI\ASP .NET CORE\E-commerce API Project\DAL\obj\Debug\net10.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UUSER\Documents\RAWAN\ITI\ASP .NET CORE\E-commerce API Project\DAL\obj\Debug\net10.0\DAL.AssemblyInfoInputs.cache
+C:\Users\UUSER\Documents\RAWAN\ITI\ASP .NET CORE\E-commerce API Project\DAL\obj\Debug\net10.0\DAL.AssemblyInfo.cs
+C:\Users\UUSER\Documents\RAWAN\ITI\ASP .NET CORE\E-commerce API Project\DAL\obj\Debug\net10.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\UUSER\Documents\RAWAN\ITI\ASP .NET CORE\E-commerce API Project\DAL\obj\Debug\net10.0\DAL.dll
+C:\Users\UUSER\Documents\RAWAN\ITI\ASP .NET CORE\E-commerce API Project\DAL\obj\Debug\net10.0\refint\DAL.dll
+C:\Users\UUSER\Documents\RAWAN\ITI\ASP .NET CORE\E-commerce API Project\DAL\obj\Debug\net10.0\DAL.pdb
+C:\Users\UUSER\Documents\RAWAN\ITI\ASP .NET CORE\E-commerce API Project\DAL\obj\Debug\net10.0\DAL.genruntimeconfig.cache
+C:\Users\UUSER\Documents\RAWAN\ITI\ASP .NET CORE\E-commerce API Project\DAL\obj\Debug\net10.0\ref\DAL.dll

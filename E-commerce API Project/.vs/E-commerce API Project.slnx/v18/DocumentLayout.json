@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UUSER\\Documents\\RAWAN\\ITI\\ASP .NET CORE\\E-commerce API Project\\E-commerce API Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\uuser\\documents\\rawan\\iti\\asp .net core\\e-commerce api project\\dal\\repositories\\product\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6AA7B0-42BB-19EF-2F8D-DF59474431FC}|E-commerce API Project.csproj|c:\\users\\uuser\\documents\\rawan\\iti\\asp .net core\\e-commerce api project\\e-commerce api project\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6AA7B0-42BB-19EF-2F8D-DF59474431FC}|E-commerce API Project.csproj|solutionrelative:controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC26196-D04A-9119-EA64-07214DDE2CFD}|..\\BLL\\BLL.csproj|c:\\users\\uuser\\documents\\rawan\\iti\\asp .net core\\e-commerce api project\\bll\\managers\\imagemanager\\imagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6AA7B0-42BB-19EF-2F8D-DF59474431FC}|E-commerce API Project.csproj|c:\\users\\uuser\\documents\\rawan\\iti\\asp .net core\\e-commerce api project\\e-commerce api project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6AA7B0-42BB-19EF-2F8D-DF59474431FC}|E-commerce API Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC26196-D04A-9119-EA64-07214DDE2CFD}|..\\BLL\\BLL.csproj|c:\\users\\uuser\\documents\\rawan\\iti\\asp .net core\\e-commerce api project\\bll\\validators\\image\\imageuploaddtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UUSER\\Documents\\RAWAN\\ITI\\ASP .NET CORE\\E-commerce API Project\\E-commerce API Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\UUSER\\Documents\\RAWAN\\ITI\\ASP .NET CORE\\E-commerce API Project\\E-commerce API Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwHEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T23:12:31.047Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\UUSER\\Documents\\RAWAN\\ITI\\ASP .NET CORE\\E-commerce API Project\\DAL\\Repositories\\Product\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\Product\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\UUSER\\Documents\\RAWAN\\ITI\\ASP .NET CORE\\E-commerce API Project\\DAL\\Repositories\\Product\\ProductRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Repositories\\Product\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:04:39.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\UUSER\\Documents\\RAWAN\\ITI\\ASP .NET CORE\\E-commerce API Project\\E-commerce API Project\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\UUSER\\Documents\\RAWAN\\ITI\\ASP .NET CORE\\E-commerce API Project\\E-commerce API Project\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "Controllers\\ImagesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T11:58:24.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageManager.cs",
+              "DocumentMoniker": "C:\\Users\\UUSER\\Documents\\RAWAN\\ITI\\ASP .NET CORE\\E-commerce API Project\\BLL\\Managers\\ImageManager\\ImageManager.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Managers\\ImageManager\\ImageManager.cs",
+              "ToolTip": "C:\\Users\\UUSER\\Documents\\RAWAN\\ITI\\ASP .NET CORE\\E-commerce API Project\\BLL\\Managers\\ImageManager\\ImageManager.cs",
+              "RelativeToolTip": "..\\BLL\\Managers\\ImageManager\\ImageManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T11:03:34.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImageUploadDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\UUSER\\Documents\\RAWAN\\ITI\\ASP .NET CORE\\E-commerce API Project\\BLL\\Validators\\Image\\ImageUploadDtoValidator.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Validators\\Image\\ImageUploadDtoValidator.cs",
+              "ToolTip": "C:\\Users\\UUSER\\Documents\\RAWAN\\ITI\\ASP .NET CORE\\E-commerce API Project\\BLL\\Validators\\Image\\ImageUploadDtoValidator.cs",
+              "RelativeToolTip": "..\\BLL\\Validators\\Image\\ImageUploadDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T12:39:11.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
